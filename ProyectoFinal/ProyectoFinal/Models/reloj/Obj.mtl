@@ -1,0 +1,36 @@
+newmtl Obj:Clock
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Diffuse.jpg
+map_Ka Diffuse.jpg
+bump  -bm 0 Bump.jpg
+Ni 1.50
+Ks 0.00 0.00 0.00
+map_Ks Diffuse.jpg
+Ns 10.00
+newmtl Obj:Metal
+illum 4
+Kd 0.59 0.59 0.59
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 1.82 1.82 1.82
+Ns 11.00
+newmtl Obj:PlasticRed
+illum 4
+Kd 0.78 0.00 0.00
+Ka 0.78 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.19 0.19 0.19
+Ns 10.00
+newmtl Obj:PlasticWite
+illum 4
+Kd 1.00 1.00 1.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.19 0.19 0.19
+Ns 10.00
